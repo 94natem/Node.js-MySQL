@@ -24,3 +24,6 @@ Prompt to choose the quantity of item.
 
 Updated stock after purchase is complete.
 ![picture](images/Stock.png)
+
+If they order more than what is in stock
+![picture](images/nostock.png)
